@@ -49,4 +49,4 @@ for(let i = 0; i < pondHeight; i++) {
     }
     console.log(line);
 }
-console.log("연못 깊이는 "+depthSum);
+console.log("연못 물 깊이의 총합은 "+depthSum);
